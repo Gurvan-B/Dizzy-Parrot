@@ -2,7 +2,7 @@
 
 Projet de jeu similaire à Flappy Bird Avec Unity Engine
 
-Dans le cadre de ce projet personnel pour m'initier au développement de jeu vidéo avec Unity
+Dans le cadre de ce projet personnel pour débuter avec le développement de jeu vidéo avec Unity
 
 Image du jeu:
 
